@@ -1,0 +1,122 @@
+body {
+    color: black;
+    background-color:#834841;
+    margin: 0px
+   }
+
+   .cor{
+    background-color:#a2716a ;
+   }
+   
+   header{
+    color: #ffede3;
+     display: flex;
+     justify-content: center;
+     border-bottom: solid 2px #000000;
+     padding: 50px;
+     font-size: 50px;
+   }
+   
+   section{
+    color: #ffede3;
+     display: flex;
+     justify-content: left;
+     background-color:#a2716a ;
+     padding-bottom: 5px;
+     padding-top: 5px;
+     padding-left: 20px;
+     padding-right: 20px;
+     
+    }
+
+
+    button{
+      font-size: 25px;
+      color: #e3bcb0;
+      background-color:#5c302b;
+    }
+
+
+   .passo{
+    display: none;
+   }
+
+
+   .passo.ativo{
+    display: block;
+   }
+
+   .invisivel{
+    color: #a2716a;
+   }
+
+      main{ 
+        background-color:#a2716a ;
+        font-size: 50px;
+      }
+
+     .meio{
+      text-align: center;
+      
+     }
+
+
+    .separacao{
+    border-bottom: solid 2px #4c0d0c;
+   }
+
+
+   .botao{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background: #a2716a;
+    
+   }
+
+  
+   .btn-link{
+     text-decoration: none;
+     border:  solid 1px #000;
+     width: 140px;
+     text-align: center;
+     margin: 30px;
+     padding: 10px;
+     font-size: 20px;
+     background: #5c302b;
+     color: #e3bcb0;
+     box-shadow: 2px 2px 2px #000;
+   }
+
+
+
+
+
+
+
+
+
+   h1{
+     font-size: 45px
+   }
+   
+   p{
+     font-size: 20px
+     
+   }
+   
+   h2{
+     font-size: 30px
+   }
+   
+   h3{
+     font-size: 20px
+   }
+
+   li{
+    font-size: 25px
+   }
+
+
+
+  
